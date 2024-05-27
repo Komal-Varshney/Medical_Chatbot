@@ -21,12 +21,7 @@ In the healthcare domain, one of the significant challenges is the accessibility
 - Knowledge Base (Using Pinecone for Vector Store)
 
 #### Frontend
-- Data Integration
-- Data Extraction
-- Creating Chunks (Potentially Larger Than Token Size)
-- Embeddings (Any Kind of Vector)
-- Build Semantic Index (By Combining All the Vectors)
-- Knowledge Base (Using Pinecone for Vector Store)
+- Flask
 
 ### Data Integration
 Combining data from different sources or formats to provide a unified view of the data for analysis and processing.
